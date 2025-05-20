@@ -1,0 +1,8 @@
+received_message,message_success,char_accuracy,bit_errors,total_bits,ber,angle,distance,noise_level,interference
+,False,0.0,16,8000,0.002,0,0.1,0.05,0.02
+,False,0.0,16,8000,0.002,30,0.1,0.05,0.02
+,False,0.0,16,8000,0.002,60,0.1,0.05,0.02
+,False,0.0,16,0,16.0,90,0.1,0.05,0.02
+,False,0.0,16,0,16.0,120,0.1,0.05,0.02
+,False,0.0,16,0,16.0,150,0.1,0.05,0.02
+,False,0.0,16,0,16.0,180,0.1,0.05,0.02
